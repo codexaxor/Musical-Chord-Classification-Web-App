@@ -34,7 +34,6 @@ jupyter-client==7.0.3
 jupyter-core==4.8.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
-librosa==0.8.1
 llvmlite==0.32.1
 MarkupSafe==2.0.1
 matplotlib-inline==0.1.3
